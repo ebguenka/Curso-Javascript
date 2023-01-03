@@ -4,7 +4,7 @@ Operadores de comparação / seria uma pergunta retorna, retorna boolean
 >= maior que ou igual a
 < menor que
 <= menor que ou igual a
-== igualdade ( valor ) não utiizar
+== igualdade ( valor ) não utilizar
 === igualdade estrita - valor e tipo
 != diferente estrito não utilizar
 !== diferente estrito (valor e tipo)
