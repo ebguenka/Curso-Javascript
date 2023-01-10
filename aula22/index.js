@@ -14,3 +14,15 @@ const senha = '12345';
 const vaiLogar = usuario === 'Eduardo' && senha === '123456';
 console.log(vaiLogar);
 
+// var soma = function(a, b){return a+b};
+
+// console.log(soma(10, 35));
+
+// function soma(numero1, numero2) {
+//     const somaDosNumeros = numero1 + numero2;
+//     console.log(somaDosNumeros);
+// }
+
+// soma(10,4);
+// soma(2,5);
+
